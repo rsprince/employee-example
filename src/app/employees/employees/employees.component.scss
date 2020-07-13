@@ -1,0 +1,33 @@
+.container {
+  position: relative;
+  margin-top: 40px;
+}
+
+.search-form-field {
+  border: none;
+  border-bottom: 1px solid #777;
+  margin-bottom: 12px;
+  outline: none;
+  font-size: 16px;
+}
+.search-icon, .search-clear-icon {
+  vertical-align: middle;
+}
+
+.search-clear-icon {
+  cursor: pointer;
+}
+
+table {
+  width: 99%;
+  border: 1px solid #777;
+  margin-bottom: 10px;
+}
+
+tr.mat-row:hover {
+  background: #BDE6A8;
+}
+
+// .highlight {
+// background: lime;
+// }
